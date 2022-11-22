@@ -1,26 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Board from "./Components/Board";
+import "./index.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const App = () => {
+      return (
+            <div>
+                  <div>
+                        <h1 className="title">
+                              Tic-Tac-Toe Game
+                        </h1>
+                  </div>
+
+                  <div>
+                        <Board />
+                  </div>
+
+                  <div className="footer">
+                        <span>
+                              All Rights Reserved by EreZAzariyA &copy; &reg;
+                        </span>
+                  </div>
+            </div>
+      )
 }
 
 export default App;
