@@ -1,7 +1,8 @@
 <div align="center">
  
 # Tic-Tac-Toe Game. 
-***Project uploaded to AWS Amplify: [Play](https://master.dfyybdctzjiw9.amplifyapp.com)***
+***Project uploaded to AWS Amplify: <br/>
+[Play-Game](https://master.dfyybdctzjiw9.amplifyapp.com)***
 
 ### Built With
  [![React][React.js]][React-url]
