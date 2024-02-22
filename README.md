@@ -2,7 +2,7 @@
  
 # Tic-Tac-Toe Game. 
 ### ***Project uploaded to AWS Amplify*** <br/>
-### ***[Play-Game](https://master.dfyybdctzjiw9.amplifyapp.com)***
+### ***[Play-Game](https://tic-tac-toe-game-snowy-six.vercel.app/)***
 
 ### Built With
  [![Typescript][Typescript.com]][Typescript-url]
